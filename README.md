@@ -2,4 +2,4 @@
 
 My practical
 
-refer to: [notes](https://kelvinyou-notes.vercel.app)
+refer to: [Golang Notes](https://kelvinyou-notes.vercel.app/docs/tech-notes/go/)
